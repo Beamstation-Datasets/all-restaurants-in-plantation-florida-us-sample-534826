@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Plantation, Florida. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Plantation, Florida, US",
+  "export_job_id": "0d17fa4b-a025-4f9a-8ab3-c9192a66c645",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 534826,
+  "location_name": "Plantation",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-plantation-florida-us-sample-534826",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/534826/beamstation_534826_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 27,
+  "sample_sha256": "f22ac9efe2ebf307f0fede4018278ca4be551db7a7b9b80cd5bb444ab8e9b3f1",
+  "sample_size_bytes": 119789,
+  "total_records": 272,
+  "updated_at": "2026-04-09T11:57:19.372718+00:00"
+}
