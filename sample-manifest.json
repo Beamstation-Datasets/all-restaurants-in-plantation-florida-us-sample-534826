@@ -1,12 +1,12 @@
 {
-  "export_job_id": "554e21de-3c3a-4957-8364-8e500432c9dd",
+  "export_job_id": "6e8a5db2-7b80-4f2a-b5d0-741f16183ae6",
   "id_short": 534826,
-  "published_at": "2026-04-19T19:07:36Z",
+  "published_at": "2026-04-23T19:10:24Z",
   "repo_name": "all-restaurants-in-plantation-florida-us-sample-534826",
   "sample_asset_name": "beamstation_534826_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/534826/beamstation_534826_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "8ef3dd692bbaccea12bf3a1d898fe40462928b4f4079e1a49444d04bc37844cd",
-  "sample_size_bytes": 93088,
-  "total_records": 274
+  "sample_records": 18,
+  "sample_sha256": "af2dbcef4237851bb0fce28f3a3c2e3cc62b93cb640a5731622a4447eec792fe",
+  "sample_size_bytes": 72871,
+  "total_records": 180
 }
