@@ -1,6 +1,6 @@
 # All Restaurants in Plantation, Florida, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `534826` |
 | Location | Plantation |
 | Category | Restaurants |
-| Full dataset size | 180 records |
-| Free sample size | 18 records (10.0%) |
-| Last export | 2026-04-23T11:25:52.798221+00:00 |
+| Full dataset size | 303 records |
+| Free sample size | 30 records (9.9%) |
+| Last export | 2026-04-30T11:34:55.437725+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-plantation-florida-us-sample-534826/releases/download/sample-latest/beamstation_534826_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
